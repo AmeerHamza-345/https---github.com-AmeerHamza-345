@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "01-class"
+version = "0.1.0"
+description = ""
+authors = ["AmeerHamza-345 <ah03016875282@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ipykernel = "^6.29.5"
+jupyter = "^1.0.0"
+
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
